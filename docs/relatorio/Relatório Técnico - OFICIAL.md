@@ -267,19 +267,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-Product owner:  
-- Lucas Ferreira Souza 
-Scrum master:
-- Gabriel Pessotti de Deus
-Desenvolvedores: 
-Vanessa Paiva Costa, Gabriel Arthur Pinto Leite, Leonardo Sampaio Zanella, Eduardo Michael Guimaraes Gomes, Marcio Santos Rezende Silva Oliveira. 
-
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Product owner: Lucas Ferreira Souza 
+Scrum master: Gabriel Pessotti de Deus
+Desenvolvedores: Vanessa Paiva Costa, Gabriel Arthur Pinto Leite, Leonardo Sampaio Zanella, Eduardo Michael Guimaraes Gomes, Marcio Santos Rezende Silva Oliveira. 
 
 
 ## Ferramentas
