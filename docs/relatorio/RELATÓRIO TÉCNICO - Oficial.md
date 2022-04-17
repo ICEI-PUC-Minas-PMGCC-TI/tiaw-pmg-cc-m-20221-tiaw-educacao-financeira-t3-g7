@@ -122,8 +122,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `Persona`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Ricardo             | Entender os pilares da educação financeira           | Ter mais controle sobre meu dinheiro          |
+|Adriana             | Aprimorar minha consciência financeira        | Me sentir menos insegura |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
