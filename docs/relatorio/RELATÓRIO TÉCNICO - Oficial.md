@@ -61,22 +61,8 @@ CIÊNCIA DA COMPUTAÇÃO
 > sobre a educação financeira, que no caso configura-se como um tema de pouca
 > acessibilidade, uma vez que é pouco ou indevidamente abordado nas escolas e até mesmo dentro
 > de casa.
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> A partir disso, é inegável a existência de um déficit no ensino da educação financeira, o que
+> resulta na formação de jovens despreparados e incapazes de fazerem devido controle de seu dinheiro.
 
 ## Objetivos
 
@@ -91,19 +77,13 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> O motivo para a escolha dessa aplicação é que, com a evolução da tecnologia e dos meios de comunicação, era 
+> inevitável que as pessoas fossem, com o passar das gerações, introduzidas mais rápidas nesse meio tecnológico,
+> o que automaticamente as faria ter contato com novas oportunidades de mexer com dinheiro de forma online, seja
+> por meio de compras na internet ou até mesmo por meio do mercado financeiro de criptomoedas, NFTs, etc.
+> Por isso, consideramos de suma importância que essas pessoas tenham contato o mais cedo possível com a educação
+> financeira, uma vez que é preciso ter o mínimo de consciência financeira frentre a um cenário tão instável, mas que
+> da forma correta pode ser usado para benefício próprio.
 
 ## Público-Alvo
 
@@ -115,33 +95,15 @@ CIÊNCIA DA COMPUTAÇÃO
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A seguir, apresentaremos as personas, ou seja, personagens que representam um tipo de cliente ideal para
+> fazer acesso ao site. Para tal, foi utilizado o ambiente Miro para ciração dos templates.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
+ 
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
