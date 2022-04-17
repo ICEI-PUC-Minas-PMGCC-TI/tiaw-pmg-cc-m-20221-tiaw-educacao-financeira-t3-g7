@@ -61,6 +61,7 @@ CIÊNCIA DA COMPUTAÇÃO
 > sobre a educação financeira, que no caso configura-se como um tema de pouca
 > acessibilidade, uma vez que é pouco ou indevidamente abordado nas escolas e até mesmo dentro
 > de casa.
+> 
 > A partir disso, é inegável a existência de um déficit no ensino da educação financeira, o que
 > resulta na formação de jovens despreparados e incapazes de fazerem devido controle de seu dinheiro.
 
@@ -69,10 +70,9 @@ CIÊNCIA DA COMPUTAÇÃO
 > Nosso objetivo em geral é de desenvolver um software que seja capaz de tonar as informações
 > sobre educação financeira mais acessíveis, de forma que, mesmo tendo como alvo o público mais jovem,
 > ainda seja capaz de fazer com que qualquer pessoa, a qualquer momento, e de qualquer lugar seja
-> capaz de acessar o site.
+> capaz de acessar o site e sanar suas dúvidas a respeito do mercado financeiro.
 > Tendo isso em vista, nosso sistema procura ser capaz, principalmente, de ajudar as pessoas a criarem consciência
-> financeira de forma mais fácil e gratuita, além de buscar sanar quaisquer dúvidas os usuários
-> tenham a respeito do mercado financeiro.
+> financeira de forma mais fácil e gratuita.
 > 
 
 ## Justificativa
@@ -83,11 +83,12 @@ CIÊNCIA DA COMPUTAÇÃO
 > por meio de compras na internet ou até mesmo por meio do mercado financeiro de criptomoedas, NFTs, etc.
 > Por isso, consideramos de suma importância que essas pessoas tenham contato o mais cedo possível com a educação
 > financeira, uma vez que é preciso ter o mínimo de consciência financeira frentre a um cenário tão instável, mas que
-> da forma correta pode ser usado para benefício próprio.
+> da forma correta pode ser aproveitado para benefício próprio.
 
 ## Público-Alvo
 
-> Homens e mulheres de 18 a 26 anos, estudantes universitários/estagiários, com renda mensal
+> Qualquer pessoa pode fazer proveito do que nosso site tem a oferecer, mas no momento temos estabelecido como público alvo
+> homens e mulheres de 18 a 26 anos, estudantes universitários/estagiários, com renda mensal
 > entre 1.000 e 5.000 reais. Procuram aprender mais sobre educação financeira e como fazer
 > melhor controle do seu dinheiro. Os usuários tem maior familiaridade com a tecnologia e que
 > começaram a ter uma maior fonte de renda, e por isso estão dispostos a procurar uma forma 
@@ -118,23 +119,17 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `Persona`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Ricardo             | Entender os pilares da educação financeira           | Ter mais controle sobre meu dinheiro          |
-|Adriana             | Aprimorar minha consciência financeira        | Me sentir menos insegura |
+|Ricardo             | Entender os pilares da educação financeira                         | Ganhar mais independência                     |
+|Ricardo             | Aprender saber quais são as formas de investimento                 | Ter mais controle sobre meu dinheiro          |
+|Ricardo             | Aprender como guardar devidamente o dinheiro para faze-lo render   | Trabalhar em sua estabilidade financeira      |
+|Adriana             | Aprimorar minha consciência financeira                             | Me sentir menos insegura                      |
+|Adriana             | Aprender a investir                                                | Multiplicar meu dinheiro                      |
+|Adriana             | Aprender quais são os principais tipos de impostos cobrados        | Começar a se planejar financeiramente         |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
