@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+DESINFORMAÇÃO SOBRE EDUCAÇÃO FINANCEIRA
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+CIÊNCIA DA COMPUTAÇÃO
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Gabriel Pessotti de Deus
+> - Eduardo Michael Guimaraes Gomes
+> - Gabriel Arthur Pinto Leite
+> - Leonardo Sampaio Zanella
+> - Lucas Ferreira Souza
+> - Marcio Santos Rezende Silva Oliveira
+> - Vanessa Paiva Costa
 
 # Estrutura do Documento
 
@@ -56,7 +57,10 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> O problema cujo nossa aplicação busca resolver, gira em torno da desinformação
+> sobre a educação financeira, que no caso configura-se como um tema de pouca
+> acessibilidade, uma vez que é pouco ou indevidamente abordado nas escolas e até mesmo dentro
+> de casa.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +80,12 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Nosso objetivo em geral é de desenvolver um softare que seja capaz de tonar informações
+> sobre educação financeira mais acessíveis, de forma que qualquer pessoa, a qualquer momento,
+> e de qualquer lugar seja capaz de acessar o site.
+> Tendo isso em vista, nosso sistema procura ser capaz de ajudar as pessoas a criarem consciência
+> financeira de forma mais fácil e gratuita, além de buscar sanar quaisquer dúvidas os usuários
+> tenham a respeito do mercado financeiro.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
