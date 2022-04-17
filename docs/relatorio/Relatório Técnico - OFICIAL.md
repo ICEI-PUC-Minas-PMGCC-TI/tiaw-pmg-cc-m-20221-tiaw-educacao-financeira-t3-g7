@@ -184,10 +184,7 @@ oferecer. Assim, o site possui atalhos como o botão de menu que buscam facilita
 
 ## Wireframes
 
-> ![Wireframe](images/projeto_de_interface.png)
-> ![Wireframe](images/projeto_de_interface_2.png)
-> ![Wireframe](images/projeto_de_interface_3.png)
-> ![Wireframe](images/projeto_de_interface_4.png)
+> ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
