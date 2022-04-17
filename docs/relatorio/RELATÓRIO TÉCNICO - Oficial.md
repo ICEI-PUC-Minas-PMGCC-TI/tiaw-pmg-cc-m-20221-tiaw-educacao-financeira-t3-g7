@@ -80,21 +80,14 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Objetivos
 
-> Nosso objetivo em geral é de desenvolver um softare que seja capaz de tonar informações
-> sobre educação financeira mais acessíveis, de forma que qualquer pessoa, a qualquer momento,
-> e de qualquer lugar seja capaz de acessar o site.
-> Tendo isso em vista, nosso sistema procura ser capaz de ajudar as pessoas a criarem consciência
+> Nosso objetivo em geral é de desenvolver um software que seja capaz de tonar as informações
+> sobre educação financeira mais acessíveis, de forma que, mesmo tendo como alvo o público mais jovem,
+> ainda seja capaz de fazer com que qualquer pessoa, a qualquer momento, e de qualquer lugar seja
+> capaz de acessar o site.
+> Tendo isso em vista, nosso sistema procura ser capaz, principalmente, de ajudar as pessoas a criarem consciência
 > financeira de forma mais fácil e gratuita, além de buscar sanar quaisquer dúvidas os usuários
 > tenham a respeito do mercado financeiro.
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -114,22 +107,11 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> Homens e mulheres de 18 a 26 anos, estudantes universitários/estagiários, com renda mensal
+> entre 1.000 e 5.000 reais. Procuram aprender mais sobre educação financeira e como fazer
+> melhor controle do seu dinheiro. Os usuários tem maior familiaridade com a tecnologia e que
+> começaram a ter uma maior fonte de renda, e por isso estão dispostos a procurar uma forma 
+> online de se inteirar a respeito do assunto e criar certa consciência financeira.
  
 # Especificações do Projeto
 
