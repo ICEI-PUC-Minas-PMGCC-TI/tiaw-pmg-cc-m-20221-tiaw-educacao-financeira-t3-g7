@@ -95,8 +95,8 @@ CIÊNCIA DA COMPUTAÇÃO
  
 # Especificações do Projeto
 
-> A seguir, apresentaremos as personas, ou seja, personagens que representam um tipo de cliente ideal para
-> fazer acesso ao site. Para tal, foi utilizado o ambiente Miro para ciração dos templates.
+> A seguir, apresentaremos as personas e seus respectivos mapas de empatia, ou seja, personagens que representam um tipo de cliente ideal para
+> fazer acesso ao site. Para tal, foi utilizado o ambiente Miro para criação dos templates.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -108,18 +108,19 @@ CIÊNCIA DA COMPUTAÇÃO
 > 
 > ![Persona1](imaages/../images/imagem_2022-04-17_030313721.png)
 > ![Mapa de Empatia 1](imaages/../images/imagem_2022-04-17_033321318.png)
+
+> **Persona 2**
 > 
 > ![Persona2](imaages/../images/imagem_2022-04-17_033737831.png)
-> ![Mapa de Empatia 2](imaages/../images/imagem_2022-04-17_033321318.png)
+> ![Mapa de Empatia 2](imaages/../images/imagem_2022-04-17_034047012.png)
 >
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `Persona`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
