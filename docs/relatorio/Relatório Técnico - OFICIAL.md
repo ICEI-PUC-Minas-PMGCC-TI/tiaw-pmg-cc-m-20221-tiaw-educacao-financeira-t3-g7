@@ -139,8 +139,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Divisão do site em categorias           | ALTA | 
+|RF-002| Permitir que o usuário acesse mais conteúdos de acordo com a categoria que selecionou   | ALTA |
+|RF-003| Permitir que o usuário acesse uma parte do site voltada para vídeos que aprofundem sobre o assunto de determinada categoria   | ALTA |
+|RF-004| O site deve conter um botão de menu que o permita selecionar a categoria que deseja acessar   | ALTA |
+|RF-005| Os conteúdos do site devem ser acompanhados de imagens e vídeos   | ALTA |
+|RF-006| O site deve ter uma área em que os usuários possam fazer compartilhamento de conteúdos   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -148,7 +152,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O site deve conter uma linguagem simples e objetiva |  ALTA | 
+|RNF-003| O site deve ser de fácil navegação |  ALTA | 
+|RNF-004| A visualização da tela deve ser simples, evitando ao máximo o excesso de informações |  MÉDIA | 
+|RNF-005| O site deve conter uma linguagem simples |  BAIXA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
