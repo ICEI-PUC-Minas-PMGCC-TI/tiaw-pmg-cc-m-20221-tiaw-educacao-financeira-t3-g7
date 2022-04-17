@@ -90,7 +90,7 @@ CIÊNCIA DA COMPUTAÇÃO
 > Qualquer pessoa pode fazer proveito do que nosso site tem a oferecer, mas no momento temos estabelecido como público alvo
 > homens e mulheres de 18 a 26 anos, estudantes universitários/estagiários, com renda mensal
 > entre 1.000 e 5.000 reais. Procuram aprender mais sobre educação financeira e como fazer
-> melhor controle do seu dinheiro. Os usuários tem maior familiaridade com a tecnologia e que
+> melhor controle do seu dinheiro. Os usuários tem maior familiaridade com a tecnologia e 
 > começaram a ter uma maior fonte de renda, e por isso estão dispostos a procurar uma forma 
 > online de se inteirar a respeito do assunto e criar certa consciência financeira.
  
