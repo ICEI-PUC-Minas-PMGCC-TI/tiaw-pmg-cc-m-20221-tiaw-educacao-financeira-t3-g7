@@ -179,15 +179,15 @@ oferecer. Assim, o site possui atalhos como o botão de menu que buscam facilita
 ## User Flow
 
 
-> ![UserFlow](images/projeto de interface.jpg)
+> ![UserFlow](images/projeto_de_interface.jpg)
 
 
 ## Wireframes
 
-> ![Wireframe](images/projeto de interface.png)
-> ![Wireframe](images/projeto de interface 2.png)
-> ![Wireframe](images/projeto de interface 3.png)
-> ![Wireframe](images/projeto de interface 4.png)
+> ![Wireframe](images/projeto_de_interface.png)
+> ![Wireframe](images/projeto_de_interface 2.png)
+> ![Wireframe](images/projeto_de_interface 3.png)
+> ![Wireframe](images/projeto_de_interface 4.png)
 
 
 # Metodologia
