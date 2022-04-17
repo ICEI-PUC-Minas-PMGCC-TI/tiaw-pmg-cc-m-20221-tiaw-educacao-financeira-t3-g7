@@ -267,7 +267,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Product owner:  
+- Lucas Ferreira Souza 
+Scrum master:
+- Gabriel Pessotti de Deus
+Desenvolvedores: 
+Vanessa Paiva Costa, Gabriel Arthur Pinto Leite, Leonardo Sampaio Zanella, Eduardo Michael Guimaraes Gomes, Marcio Santos Rezende Silva Oliveira. 
+
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
