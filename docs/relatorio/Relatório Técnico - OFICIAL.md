@@ -139,12 +139,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Divisão do site em categorias           | ALTA | 
-|RF-002| Permitir que o usuário acesse mais conteúdos de acordo com a categoria que selecionou   | ALTA |
-|RF-003| Permitir que o usuário acesse uma parte do site voltada para vídeos que aprofundem sobre o assunto de determinada categoria   | ALTA |
-|RF-004| O site deve conter um botão de menu que o permita selecionar a categoria que deseja acessar   | ALTA |
-|RF-005| Os conteúdos do site devem ser acompanhados de imagens e vídeos   | ALTA |
-|RF-006| O site deve ter uma área em que os usuários possam fazer compartilhamento de conteúdos   | MÉDIA |
+|RF-01| O sistema deve permitir o cadastro de novos usuários           | ALTA | 
+|RF-02| Divisão do site em categorias           | ALTA | 
+|RF-03| Permitir que o usuário acesse mais conteúdos de acordo com a categoria que selecionou   | ALTA |
+|RF-04| Permitir que o usuário acesse uma parte do site voltada para vídeos que aprofundem sobre o assunto de determinada categoria   | ALTA |
+|RF-05| O site deve conter um botão de menu que o permita selecionar a categoria que deseja acessar   | ALTA |
+|RF-06| Os conteúdos do site devem ser acompanhados de imagens e vídeos   | ALTA |
+|RF-07| O site deve ter uma área em que os usuários possam fazer compartilhamento de conteúdos   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -155,29 +156,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O site deve conter uma linguagem simples e objetiva |  ALTA | 
 |RNF-003| O site deve ser de fácil navegação |  ALTA | 
 |RNF-004| A visualização da tela deve ser simples, evitando ao máximo o excesso de informações |  MÉDIA | 
-|RNF-005| O site deve conter uma linguagem simples |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-005| O site deve ser compatível com outras plataformas de navegação |  MÉDIA | 
 > 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ## Restrições
 
@@ -187,14 +167,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|03| Não pode ser desenvolvido um módulo de backend        |
 
 
 # Projeto de Interface
