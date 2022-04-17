@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7632264&assignment_repo_type=AssignmentRepo)
 # Desinformação sobre Educação Financeira
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo do nosso projeto é tornar a educação financeira algo mais acessível para as pessoas,
+de forma que ao acessar o conteúdo do nosso site, ela possa aprendar e sanar suas dúvidas de forma
+mais simples a respeito do mercado financeiro.
 
 ## Alunos integrantes da equipe
 
@@ -14,8 +16,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Daniel de Oliveira Capanema
+* Rommel Vieira Carneiro
+* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
