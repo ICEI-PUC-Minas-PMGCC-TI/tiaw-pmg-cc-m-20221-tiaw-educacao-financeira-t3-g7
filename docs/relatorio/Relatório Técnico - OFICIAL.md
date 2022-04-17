@@ -267,9 +267,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-> Product owner: Lucas Ferreira Souza 
-> Scrum master: Gabriel Pessotti de Deus
-> Desenvolvedores: Vanessa Paiva Costa, Gabriel Arthur Pinto Leite, Leonardo Sampaio Zanella, Eduardo Michael Guimaraes Gomes, Marcio Santos Rezende Silva Oliveira. 
+> - Product owner: Lucas Ferreira Souza 
+> - Scrum master: Gabriel Pessotti de Deus
+> - Desenvolvedores: Vanessa Paiva Costa, Gabriel Arthur Pinto Leite, Leonardo Sampaio Zanella, Eduardo Michael Guimaraes Gomes, Marcio Santos Rezende Silva Oliveira. 
 
 
 ## Ferramentas
