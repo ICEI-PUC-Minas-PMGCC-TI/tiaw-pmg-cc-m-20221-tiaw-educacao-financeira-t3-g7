@@ -104,9 +104,10 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Personas e Mapas de Empatia
  
-> **Exemplo de Persona**
+> **Persona 1**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Persona1](imaages/../images/imagem_2022-04-17_030313721.png)
+> ![Persona1](imaages/../images/imagem_2022-04-17_030313721.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
