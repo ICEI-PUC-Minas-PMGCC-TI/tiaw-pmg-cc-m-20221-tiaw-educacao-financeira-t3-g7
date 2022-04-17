@@ -109,8 +109,8 @@ CIÊNCIA DA COMPUTAÇÃO
 > ![Persona1](imaages/../images/imagem_2022-04-17_030313721.png)
 > ![Mapa de Empatia 1](imaages/../images/imagem_2022-04-17_033321318.png)
 > 
-> ![Persona1](imaages/../images/imagem_2022-04-17_030313721.png)
-> ![Mapa de Empatia 1](imaages/../images/imagem_2022-04-17_033321318.png)
+> ![Persona2](imaages/../images/imagem_2022-04-17_033737831.png)
+> ![Mapa de Empatia 2](imaages/../images/imagem_2022-04-17_033321318.png)
 >
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
