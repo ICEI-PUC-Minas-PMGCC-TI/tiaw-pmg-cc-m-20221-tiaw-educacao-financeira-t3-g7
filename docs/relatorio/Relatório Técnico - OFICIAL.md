@@ -215,7 +215,7 @@ oferecer. Assim, o site possui atalhos como o botão de menu que buscam facilita
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB6CbC8=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-educacao-financeira-t3-g7 |  
-|Protótipo Interativo | Figma | https://www.figma.com/file/IHBWYy5hKANqn5Bu7RBGc1/EDUCA%C3%87%C3%83O-FINANCEIRA?node-id=0%3A1 | 
+|Protótipo Interativo | Figma | file:///C:/Users/dudu_/Downloads/EDUCAÇÃO%20FINANCEIRA%20(2)%20(1).pdf | 
 
 
 ## Controle de Versão
