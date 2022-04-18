@@ -99,10 +99,6 @@ CIÊNCIA DA COMPUTAÇÃO
 > A seguir, apresentaremos as personas e seus respectivos mapas de empatia, ou seja, personagens que representam um tipo de cliente ideal para
 > fazer acesso ao site. Para tal, foi utilizado o ambiente Miro para criação dos templates.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas e Mapas de Empatia
  
 > **Persona 1**
@@ -218,8 +214,8 @@ oferecer. Assim, o site possui atalhos como o botão de menu que buscam facilita
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB6CbC8=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX |  
-|Protótipo Interativo | Figma | https://figma.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-educacao-financeira-t3-g7 |  
+|Protótipo Interativo | Figma | https://www.figma.com/file/IHBWYy5hKANqn5Bu7RBGc1/EDUCA%C3%87%C3%83O-FINANCEIRA?node-id=0%3A1 | 
 
 
 ## Controle de Versão
