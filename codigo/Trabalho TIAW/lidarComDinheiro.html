@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Security Survey</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <link rel="stylesheet" href="estilos3.css">
+        <meta name="description" content="Survey">
+        <script src="https://kit.fontawesome.com/8afeca56bd.js" crossorigin="anonymous"></script>
+      
+    </head>
+      
+    <body>
+        <header class="container header">
+            <div class="row">
+                <div class="col-12 header_area">
+                    <div class="row">
+                        <div class="col-12 col-sm-12 col-md-4 col-lg-2">
+                            <img src="imagens/logo.png" class="logo">
+                        </div>
+                        <div class="col-12 col-sm-12 col-md-8 col-lg-10 menu_area">
+                            <nav class="nav nav-pills flex-column flex-sm-row">
+                                <a class="flex-sm-fill text-sm-center nav-link" aria-current="page" href="index.html">Home</a>
+                                <a class="flex-sm-fill text-sm-center nav-link" href="educaçãoFinanceira.html">Educação Financeira</a>
+                                <a class="flex-sm-fill text-sm-center nav-link" href="novidades.html">Novidades</a>
+                                <a class="flex-sm-fill text-sm-center nav-link" href="feedback.html">Feedback</a>
+                                <a class="flex-sm-fill text-sm-center nav-link" href="recomendações.html">Recomendações</a>
+                                <a class="flex-sm-fill text-sm-center nav-link" href="#">Perfil</a>
+                              </nav>
+                        </div>
+                        
+                    </div>
+    
+                </div>
+            </div>      
+        </header>
+
+
+        <div class="container">	
+          <div class="row">
+              <div class="two-thirds column">
+              <h2>Você sabe lidar com seu dinheiro?</h2>
+      
+              <div id="progress_bar"></div>
+                  <form class="questions_box">
+      
+                      <div id="question-1">
+                        <h2>Pergunta 1</h2>
+                          <h3>Você tem algum tipo de poupança?</h3>
+                          <input id="question-1-answer-a" type="radio" name="favelang" value=1> Não, não tenho dinheiro para colocar na poupança.<br>
+                          <input id="question-1-answer-b" type="radio" name="favelang" value=2> Eu deveria ter uma poupança, mas isso simplesmente nunca aconteceu.<br>
+                          <input id="question-1-answer-c" type="radio" name="favelang" value=3> Sim, sempre priorizo guardar dinheiro do que gastar.<br>
+                          <div id="submit1" class="button">Enviar Resposta</div>
+                  <div class="clearfix"></div>
+                      </div>
+      
+                     <div id="question-2">
+                         <h2>Questão 2</h2>
+                         <h3>Você tem cartão de crédito?</h3>
+                         <input id="question-2-answer-a" type="radio" name="favelang" value="1"> Não, não confio em mim com um cartão de crédito.<br>
+                         <input id="question-2-answer-b" type="radio" name="favelang" value="2"> Sim, mas nem sempre pago a fatura.<br>
+                         <input id="question-2-answer-c" type="radio" name="favelang" value="3"> Sim, e pago a fatura certinho todos os meses.<br>
+                         <div id="submit2" class="button">Enviar Resposta</div>
+                 <div class="clearfix"></div>
+                     </div>
+                    
+                     <div id="question-3">	
+                         <h2>Questão 3</h2>
+                         <h3>Com que frequência você verifica sua conta bancária?</h3>
+                         <input id="question-3-answer-a" type="radio" name="favelang" value="1"> Só quando meu cartão é recusado.<br>
+                         <input id="question-3-answer-b" type="radio" name="favelang" value="2"> Esporadicamente, se eu estiver perto de um caixa eletrônico.<br>
+                         <input id="question-3-answer-c" type="radio" name="favelang" value="3"> Regularmente no meu celular.<br>
+                         <div id="submit3" class="button">Enviar Resposta</div>
+                <div class="clearfix"></div>
+                     </div>
+      
+                 <div id="question-4">
+                    <h2>Questão 4</h2>
+                    <h3>O que você faz no momento em que recebe seu salário?</h3>
+                    <input id="question-4-answer-a" type="radio" name="favelang" value="1"> Vou correndo comprar aquilo que queria.<br>
+                    <input id="question-4-answer-b" type="radio" name="favelang" value="2"> Não gasto tudo de uma vez, mas também não faço planejamento de como vou gastar meu dinheiro.<br>
+                    <input id="question-4-answer-c" type="radio" name="favelang" value="3"> Separo um pouco de dinheiro para pagar contas o para colocar na poupança.<br>
+                    <div id="submit4" class="button">Enviar Resposta</div>
+                    <div class="clearfix"></div>
+                </div>
+      
+                <div id="question-5">
+                    <h2>Questão 5</h2>
+                    <h3>O que você faz quando está ficando sem dinheiro?</h3>
+                    <input id="question-5-answer-a" type="radio" name="favelang" value="3"> Planejo tudo com antecedência, então não fico sem dinheiro.<br>
+                    <input id="question-5-answer-b" type="radio" name="favelang" value="2"> Não entro em pânico, mas começo a gastar menos.<br>
+                    <input id="question-5-answer-c" type="radio" name="favelang" value="1"> Entro em pânico e vivo na pobreza até receber novamente.<br>
+                    <div id="submit5" class="button">Enviar Resposta</div>
+                    <div class="clearfix"></div>
+                </div>
+
+                <div id="question-6">
+                  <h2>Questão 6</h2>
+                  <h3>Você sabe o que é a pontuação de crédito do Serasa?</h3>
+                  <input id="question-6-answer-a" type="radio" name="favelang" value="2"> Sim, mas a minha pontuação é ruim.<br>
+                  <input id="question-6-answer-b" type="radio" name="favelang" value="3"> Sim, e a minha é muito boa.<br>
+                  <input id="question-6-answer-c" type="radio" name="favelang" value="1"> Não faço ideia.<br>
+                  <div id="submit6" class="button">Enviar Resposta</div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div id="question-7">
+                  <h2>Questão 7</h2>
+                  <h3>Você vê um tênis muito caro que quer comprar. E na sua conta só tem dinheiro suficiente para comprá-lo. O que você faz?</h3>
+                  <input id="question-7-answer-a" type="radio" name="favelang" value="1"> Compro com meu cartão de crédito.<br>
+                  <input id="question-7-answer-b" type="radio" name="favelang" value="2"> Economizo por algumas semanas até conseguir comprá-los.<br>
+                  <input id="question-7-answer-c" type="radio" name="favelang" value="3"> Consigo viver sem esse par.<br>
+                  <div id="submit7" class="button">Enviar Resposta</div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div id="question-8">
+                  <h2>Questão 8</h2>
+                  <h3>Você sabe o valor das suas contas mensais?</h3>
+                  <input id="question-8-answer-a" type="radio" name="favelang" value="1"> Não, as contas sempre são uma surpresa.<br>
+                  <input id="question-8-answer-b" type="radio" name="favelang" value="2"> Mais ou menos.<br>
+                  <input id="question-8-answer-c" type="radio" name="favelang" value="3"> Sim, tenho um orçamento fechado para as despesas fixas.<br>
+                  <div id="submit8" class="button">Enviar Resposta</div>
+                  <div class="clearfix"></div>
+              </div>
+
+
+      
+               <div id="question-9"> 
+                 <h2>Obrigado por responder a pesquisa!</h2>
+                 <h3>Seu score de segurança é: </h3>
+                 <h1 id=printtotalscore></h1>
+                 <p id=printscoreinfo></p>
+      
+               </div>
+      
+      
+                        
+                  </form>
+      
+              </div>
+            </div>
+        </div>
+      
+        <script src="script_quiz.js"></script>
+    </body>
+</html>
