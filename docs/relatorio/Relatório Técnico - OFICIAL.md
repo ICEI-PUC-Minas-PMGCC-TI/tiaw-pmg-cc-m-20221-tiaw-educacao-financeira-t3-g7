@@ -258,7 +258,7 @@ oferecer. Assim, o site possui atalhos como o botão de menu que buscam facilita
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Chegamos a um consenço que para resolvermos a falta de educação financeira em nosso pais, temos que facilitar o acesso a conteúdos educativos, e tranmitir para as pessoas a importância da educação financeira, para a construção de uma sociedade mais solida. Contudo, desenvolvemos uma aplicação web, onde disponibilizamos aos nossos usuários, conteúdos selecionados, como vídeos, noticias, podcasts, atigos científicos, livros, e também recomendamos cursos para que o usuário possa adquirir conhecimentos mais específicos sobre edução financeira.
 
 ## Tecnologias Utilizadas
 
