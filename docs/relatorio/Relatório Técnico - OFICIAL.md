@@ -264,18 +264,7 @@ Chegamos a um consenço que para resolvermos a falta de educação financeira em
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Aplicação foi desenvolvida por algumas ferramentas de Desenvolvimento Web. Utilizamos html,css,javascript, e framework bootstrap, utilizamos o VS Code para editar o código, e usamos a plataforma Replit, para publicar nosso site.
 
 ## Arquitetura da solução
 
