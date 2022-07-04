@@ -278,11 +278,8 @@ Aplicação foi desenvolvida por algumas ferramentas de Desenvolvimento Web. Uti
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Consideramos nossa aplicação bem consistente, com conteúdos bem estruturados e selecionados de acordo com o contexto do nosso problema. Todas as informações coletadas e passadas para nosso site, foram verificadas para que informações erradas não sejam passadas para nosso usuário, todos os conteúdos inseridos foram verificados por todos os integrantes da equipe.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
