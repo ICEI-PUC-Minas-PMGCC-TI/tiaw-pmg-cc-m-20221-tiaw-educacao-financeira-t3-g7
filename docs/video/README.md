@@ -1,8 +1,4 @@
 # Vídeos do Projeto
-A relação abaixo lista os vídeos feitos para o projeto:
- - [Vídeo AAAAAAAA]()
- - [Vídeo BBBBBBBB]()
 
-> Nesta pasta inclua arquivos de vídeo produzidos para divulgação do 
-> projeto e seus resutados.
+O ARQUIVO COM O VÍDEO ESTÁ NA PASTA LOGO ABAIXO DE "READ-ME"
 
