@@ -262,8 +262,6 @@ Chegamos a um consenço que para resolvermos a falta de educação financeira em
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 Aplicação foi desenvolvida por algumas ferramentas de Desenvolvimento Web. Utilizamos html,css,javascript, e framework bootstrap, utilizamos o VS Code para editar o código, e usamos a plataforma Replit, para publicar nosso site.
 
 ## Arquitetura da solução
